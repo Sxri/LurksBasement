@@ -13,4 +13,6 @@ In each script will contain a file explaining the steps to activate the exploit/
 
 # My website
 
-urmom
+https://lurksbasement-1.sxri.repl.co/
+
+yes, replit, im poor. (:sad:)
